@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Handlee', cursive;
+}
+h1 {
+  font-size: 5rem;
+  color: #66BFBF;
+  font-weight: bold;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: bold;
+  margin-top: 0px;
+}
+h3 {
+  color:#11999E;
+}
+a {
+  color:#11999E;
+}
+p {
+  font-size: 1.5rem;
+}
+hr {
+  border-style: dotted;
+  border-color: #EAF6F6;
+  border-top: 0;
+  border-width: 10px;
+  width: 10%
+}
+/********CLASS SELECTOR******/
+.top-container{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 10rem;
+  top: 1px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 10rem;
+  bottom:200px;
+}
+.circular {
+  border-radius: 100%;
+}
+.skill-row {
+  width: 60%;
+  margin:100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.skill-image-prank {
+  width: 28%;
+  float: left;
+}
+
+.skill-image-sing {
+  width: 28%;
+  float: right;
+}
+.skill-image-scared {
+    width: 28%;
+    float: left;
+}
+.cm-image {
+  width: 10%;
+  padding-top: 20px;
+}
+.cm-h2 {
+  padding-top: 20px;
+}
+.text-padding {
+  padding: 20px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.btn {
+  height:
+}
+.footer-link {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bolder;
+  color: ##03525E;
+}
+.footer {
+  color: #EAF6F6;
+}
+
+.btn-text {
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  background-color: #66bfbf;
+  color: #EAF6F6;
+  font-weight: bolder;
+  font-size: 20px;
+  font-family: cursive;
+  border-radius: 50px;
+}
+.btn {
+  margin-bottom: 30px;
+}
